@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "Matthew's Reviews!",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Matthew's Music Reviews: he writes some reviews here and stuff!",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Matthew's Music Reviews",
+    "description": "Hey! I'm Matthew, and below you will find some of my reviews. I review all kinds of music (mostly whatever I find interesting), and if you have any recommendations, feel free to contact me, either through RYM or on my contact page. This website is still a bit of a WIP, but I hope you enjoy it!"
   }
 }

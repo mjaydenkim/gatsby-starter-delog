@@ -9,14 +9,14 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #5B9ED9;
+  --primary-color: #381696;
   --primary-text-color: #fff;
-  --featured-bg: #F26B6B;
+  --featured-bg: #493b8a;
   --featured-text: #fff;
-  --secondary-color: #732F41;
-  --background: #F2FAFF;
+  --secondary-color: #10072b;
+  --background: #fff;
   --site-header: var(--background);
-  --card-bg: #F2FAFF;
+  --card-bg: #fff;
   --card-bdr: #eee;
   --card-shadow: #d5d5d5;
   --btn-bg: var(--background);
@@ -103,8 +103,8 @@ a {
 .site-title a {
   color: var(--primary-color);
   text-decoration: none;
-  font-weight: 700;
-  // text-transform: uppercase;
+  font-weight: 900;
+  text-transform: uppercase;
 }
 .hero-header {
   padding: 0 0 64px;
