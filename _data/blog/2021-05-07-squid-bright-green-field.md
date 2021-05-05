@@ -4,6 +4,7 @@ path: /bright-green-field-squid
 date: 2021-05-07T02:25:09+00:00
 title: Squid - Bright Green Field
 thumbnail: /assets/bgf.jpg
+metaDescription: Bright Green Field by Squid -- Album Review
 ---
 DON'T FORGET TO CHANGE THE DATE TO BE ACTUALLY ACCURATE LOL
 <br/>
