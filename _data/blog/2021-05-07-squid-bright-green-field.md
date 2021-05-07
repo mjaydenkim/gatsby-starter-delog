@@ -31,3 +31,5 @@ My main complaint about *Bright Green Field* is that some tracks simply don't hi
 *Bright Green Field* is an extremely strong starting point for Squid -- unlike many of their contemporaries' debut projects, it's an incredibly varied album, but still one with a defined and refined sound. Clear instrumental and writing talent are on display on this LP, but it's just as obvious that Squid has more than enough room to take their sound and experimentation to another level on future projects. This band is something special, and if I had to guess, the 2020s will be Squid's decade. Squidcoin to the moon!
 
 *<h3> Rating: 9.2 </h3>*
+
+<iframe style="border: 0; width: 100%; height: 120px; margin:auto;" src="https://bandcamp.com/EmbeddedPlayer/album=1351277344/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://squiduk.bandcamp.com/album/bright-green-field">Bright Green Field by Squid</a></iframe>
