@@ -27,7 +27,7 @@ However, the album isn't all one-note: the aforementioned "brutal" is an example
 
 The production on this album is also great, even if it's nothing surprising. Dan Nigro, the album's executive producer, worked with artists including Conan Gray, Caroline Polachek, and Carly Rae Jepsen in the past, and he doesn't disappoint on *SOUR*. The album's soft acoustic and piano ballads, its groovy sing-alongs, and everything in between are all handled with ease on this album, and the small production details are quite nice when they occasionally show up (example: "drivers license"'s short decrescendos that sound vaguely like a car's motor revving down). 
 
-To conclude, *SOUR* is, really, a surprisingly great LP. It may feel a little bit one-trick and runs the risk of pigeonholing Rodrigo into the themes of break-up and bitterness she emphasized on this album, but I found it unexpectedly listenable and even enjoyable, with high-quality production, songwriting, and vocals. For someone whose claim to fame is Jake Paul's Disney Channel show, she might as well have won the lottery. 
+To conclude, *SOUR* is, really, a surprisingly great LP. It may feel a little bit one-trick and runs the risk of pigeonholing Rodrigo into the themes of break-up and bitterness she emphasized on this album, and Rodrigo wears her influence on her sleeve very obviously, but I found this project unexpectedly listenable and even enjoyable, with high-quality production, songwriting, and vocals. For someone whose claim to fame is Jake Paul's Disney Channel show, she might as well have won the lottery. 
 
 *<h3> Rating: 8.2 </h3>*
 
