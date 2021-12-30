@@ -22,7 +22,7 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='https://rateyourmusic.com/~WrenCubes' className="button -primary">RYM Link &rarr;</Link>
+        {/* <Link to='https://rateyourmusic.com/~WrenCubes' className="button -primary">RYM Link &rarr;</Link> */}
       </div>
     )}
   />
