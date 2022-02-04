@@ -2,7 +2,7 @@
 template: BlogPost
 path: /ants-from-up-there-black-country-new-road
 date: 2022-02-03T23:11:12-08:00
-title: Black Country, New Road -- Ants From Up There
+title: Black Country, New Road - Ants From Up There
 thumbnail: /assets/afut.jpg
 metaDescription: Ants From Up There by Black Country, New Road -- Album Review
 ---
@@ -26,4 +26,4 @@ Despite a new set of influences, dynamics, and structures that likely disqualify
 
 *<h3> Rating: 9.7 </h3>*
 
-<iframe style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3296358317/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://blackcountrynewroad.bandcamp.com/album/ants-from-up-there">Ants From Up There by Black Country, New Road</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3296358317/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://blackcountrynewroad.bandcamp.com/album/ants-from-up-there">Ants From Up There by Black Country, New Road</a></iframe>
